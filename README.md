@@ -18,4 +18,4 @@
 * Hooks
 
 ## Screenshots
-![Screenshot of the project CineTag](https://imgur.com/nKUf7MK.png)
+![Screenshot of the project CineTag](https://github.com/AlysonEiti/cinetag/blob/main/public/images/screenshot.png)
