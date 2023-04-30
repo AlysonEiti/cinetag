@@ -1,0 +1,34 @@
+.footer {
+    background-color: var(--black);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+    bottom: 0;
+    height: 45px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.footer h2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--white);
+}
+
+.icons {
+    width: 10%;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.icons a {
+    opacity: 0.8;
+} 
+
+.icons a:hover {
+    opacity: 1;
+} 
+
